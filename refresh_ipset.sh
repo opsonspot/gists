@@ -33,6 +33,7 @@ pingone.com
 mskcc.org
 myworkday.com
 docusign.com
+ifconfig.me
 "
 
 # Add static IPs
