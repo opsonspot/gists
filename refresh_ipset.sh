@@ -37,6 +37,7 @@ ssofed.mskcc.org
 msktime.mskcc.org
 authenticator.pingone.com
 thespot.mskcc.org
+workday.mskcc.org
 "
 
 # Add static IPs
