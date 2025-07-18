@@ -33,6 +33,8 @@ pingone.com
 mskcc.org
 myworkday.com
 docusign.com
+ssofed.mskcc.org
+msktime.mskcc.org
 "
 
 # Add static IPs
