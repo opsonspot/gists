@@ -38,6 +38,8 @@ msktime.mskcc.org
 authenticator.pingone.com
 thespot.mskcc.org
 workday.mskcc.org
+www.myworkday.com
+myworkday.com
 "
 
 # Add static IPs
