@@ -95,6 +95,7 @@ authenticator.pingone.com
 thespot.mskcc.org
 workday.mskcc.org
 www.myworkday.com
+hcm.paycor.com
 "
 
 # Counter for successful operations
